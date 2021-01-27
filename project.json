@@ -1,0 +1,16 @@
+{
+  "assets": [],
+  "build": {
+    "build_id": "8F01F7AF-14",
+    "build_number": 14,
+    "build_time": 1611734140550
+  },
+  "useFeatures": [],
+  "icon": "res/logo.png",
+  "main": "main.js",
+  "name": "自动学习强国",
+  "packageName": "xzy.xxqg",
+  "scripts": {},
+  "versionCode": 2,
+  "versionName": "2.2.0"
+}
