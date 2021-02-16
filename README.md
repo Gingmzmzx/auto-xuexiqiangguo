@@ -1,4 +1,4 @@
-# 现有最新版本了，https://github.com/Gingmzmzx/auto-xxqg，快去看看吧！
+# 现有最新版本了，https://github.com/Gingmzmzx/auto-xxqg ，快去看看吧！
 
 auto-xuexiqiangguo
 # 自动学习强国
